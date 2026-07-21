@@ -1,0 +1,4 @@
+-R : Recursive Listing
+-rf : Force Removal
+-i : Remove interactively
+-r : reverse sort order
